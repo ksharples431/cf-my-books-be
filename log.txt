@@ -13,3 +13,6 @@
 ::1 - - [11/Dec/2023:18:37:17 +0000] "GET /public/documentation/.html HTTP/1.1" 404 165 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36"
 ::1 - - [11/Dec/2023:18:38:01 +0000] "GET /public/documentation/ HTTP/1.1" 404 160 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36"
 ::1 - - [11/Dec/2023:18:38:06 +0000] "GET /documentation/ HTTP/1.1" 200 6917 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36"
+127.0.0.1 - - [11/Dec/2023:19:59:36 +0000] "GET /books HTTP/1.1" 404 144 "-" "PostmanRuntime/7.34.0"
+127.0.0.1 - - [11/Dec/2023:20:11:24 +0000] "GET /books HTTP/1.1" 404 144 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36"
+127.0.0.1 - - [11/Dec/2023:20:11:25 +0000] "GET /books HTTP/1.1" 404 144 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36"
